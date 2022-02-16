@@ -1,0 +1,1 @@
+The corpuses here consist of extracts from Project Gutenburg eBooks, so I've included the license that came with them.
